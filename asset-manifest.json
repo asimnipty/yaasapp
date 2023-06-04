@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yaasapp/static/css/main.82510756.css",
+    "main.js": "/yaasapp/static/js/main.c340aedd.js",
+    "static/media/clk.jpg": "/yaasapp/static/media/clk.2c9d287368ebcb2d9059.jpg",
+    "static/media/logo.png": "/yaasapp/static/media/logo.cb82798e8da3b3774d6f.png",
+    "index.html": "/yaasapp/index.html",
+    "main.82510756.css.map": "/yaasapp/static/css/main.82510756.css.map",
+    "main.c340aedd.js.map": "/yaasapp/static/js/main.c340aedd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82510756.css",
+    "static/js/main.c340aedd.js"
+  ]
+}
